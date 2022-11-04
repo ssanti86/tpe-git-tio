@@ -3,7 +3,7 @@
 $productos = ["teclado","mouse","monitor","auriculares","escritorio", "procesador", "gabinete", "mousepad"];
 
 foreach ($productos as $producto) {
-	echo "Productos:";
+	echo "Añada un producto:"
 	echo $producto;
 }
 
