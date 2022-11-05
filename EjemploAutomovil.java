@@ -21,7 +21,6 @@ public class EjemploAutomovil {
 
         System.out.println("Kilometros por litro " + subaru.calcularConsumo(300, 0.6f));
 
-        System.out.println("Primera prueba TIO");
-        System.out.println("Segunda prueba Tp-TIO");
+        System.out.println("Prueba final TP.TIO");
     }
 }
